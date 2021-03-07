@@ -1,1 +1,3 @@
-#### The documentation will be on Wiki's pages
+# My notes are stored here
+
+_Go to the wiki to view_
